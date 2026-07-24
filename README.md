@@ -23,7 +23,7 @@ I use this GitHub profile to document my labs, reports, lessons learned, and pro
 
 ## Current Portfolio Project
 
-### Enterprise Active Directory and Splunk SIEM Lab
+### [Enterprise Active Directory and Splunk SIEM Lab](https://github.com/RAY883/Enterprise-Active-Directory-Splunk-Lab)
 
 Built and verified a virtual enterprise Windows environment consisting of:
 
@@ -36,13 +36,13 @@ Built and verified a virtual enterprise Windows environment consisting of:
 - Splunk receiving port `9997`
 - Successful indexing and searching of thousands of Windows events
 
-**Status:** Lab infrastructure and log ingestion completed. Formal documentation and GitHub project repository are being prepared.
+**Status:** Infrastructure and log ingestion completed. Repository documentation is live. Attack simulation and detection testing are planned as the next phase.
 
 ## Cybersecurity Portfolio Roadmap
 
 | Project | Area | Status |
 |---|---|---|
-| Enterprise Active Directory and Splunk SIEM Lab | SOC / Blue Team | Documentation in progress |
+| [Enterprise Active Directory and Splunk SIEM Lab](https://github.com/RAY883/Enterprise-Active-Directory-Splunk-Lab) | SOC / Blue Team | Infrastructure complete; detection phase planned |
 | Phishing Investigation | SOC / Threat Analysis | Planned |
 | Incident Response Playbook | Incident Response / GRC | Planned |
 | Cloud and IAM Security Assessment | Cloud Security | Planned |
