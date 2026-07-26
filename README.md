@@ -23,7 +23,7 @@ I use this GitHub profile to document my labs, reports, lessons learned, and pro
 
 ## Current Portfolio Project
 
-### [Enterprise Active Directory and Splunk SIEM Lab](https://github.com/RAY883/Enterprise-Active-Directory-Splunk-Lab)
+### [Enterprise Active Directory and Splunk SIEM Lab](https://github.com/RAY883/active-directory-splunk-siem-lab)
 
 Built and verified a virtual enterprise Windows environment consisting of:
 
@@ -42,7 +42,7 @@ Built and verified a virtual enterprise Windows environment consisting of:
 
 | Project | Area | Status |
 |---|---|---|
-| [Enterprise Active Directory and Splunk SIEM Lab](https://github.com/RAY883/Enterprise-Active-Directory-Splunk-Lab) | SOC / Blue Team | Infrastructure complete; detection phase planned |
+| [Enterprise Active Directory and Splunk SIEM Lab](https://github.com/RAY883/active-directory-splunk-siem-lab) | SOC / Blue Team | Infrastructure complete; detection phase planned |
 | Phishing Investigation | SOC / Threat Analysis | Planned |
 | Incident Response Playbook | Incident Response / GRC | Planned |
 | Cloud and IAM Security Assessment | Cloud Security | Planned |
