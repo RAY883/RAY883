@@ -21,7 +21,7 @@ My practical work includes:
 
 I use this GitHub profile to document my labs, reports, lessons learned, and professional development.
 
-## Current Portfolio Project
+## Projects
 
 ### [Enterprise Active Directory and Splunk SIEM Lab](https://github.com/RAY883/active-directory-splunk-siem-lab)
 
