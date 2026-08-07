@@ -76,7 +76,7 @@ These are practical learning labs and are not presented as production client wor
 | [IAM Joiner–Mover–Leaver Access Governance](https://github.com/RAY883/iam-joiner-mover-leaver-access-governance) | GRC / IAM | ✅ Completed |
 | [AI Security Governance and Incident Readiness](https://github.com/RAY883/AI-Security-Governance-and-Incident-Readiness) | AI Governance / AI Security | ✅ Completed |
 | [Risk Acceptance and Security Exception Management](https://github.com/RAY883/Risk-Acceptance-Security-Exception-Management) | GRC / IT Risk | ✅ Completed |
-| EU AI Act High-Risk AI Governance Assessment | AI Governance / Regulatory Risk | 🔄 In Progress |
+| EU AI Act High-Risk AI Governance Assessment | AI Governance / Regulatory Risk | ✅Completed |
 | Automated Privileged-Access Review and GRC Engineering | GRC Engineering / IAM | 🧭 Planning |
 | PCI DSS Network Segmentation and Scope Review | Compliance / Technical Assurance | 🧭 Planning |
 | ISO 27001 Applicability and Audit-Readiness Case Study | GRC / Audit Readiness | 🧭 Planning |
