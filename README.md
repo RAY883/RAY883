@@ -4,7 +4,7 @@
 
 I am building my cybersecurity career around **GRC and IT risk first, AI governance second, with VAPT and SOC/security operations as the technical foundation behind my control and risk decisions**.
 
-My portfolio focuses on practical evidence: risk assessments, control reviews, security exceptions, IAM governance, AI security, SIEM monitoring, network analysis and web-security testing. I use fictional or lab-based scenarios where appropriate and document what was actually assessed, what decision was made and what residual risk remains.
+My portfolio focuses on practical evidence: risk assessments, control reviews, security exceptions, IAM governance, ISO 27001 readiness, AI security, SIEM monitoring, network analysis and web-security testing. I use fictional or lab-based scenarios where appropriate and document what was actually assessed, what decision was made and what residual risk remains.
 
 ## About Me — Two Career Tracks
 
@@ -12,7 +12,7 @@ I maintain two versions of my cybersecurity profile because the same technical f
 
 ### 1. GRC, IT Risk & AI Governance
 
-This is my main track. It focuses on risk assessment, control effectiveness, IAM governance, third-party risk, security exceptions, AI governance, technical assurance and management decision-making.
+This is my main track. It focuses on risk assessment, control effectiveness, IAM governance, third-party risk, security exceptions, ISO 27001 readiness, AI governance, technical assurance and management decision-making.
 
 [Read my GRC & AI Governance profile →](about-grc-ai-governance.md)
 
@@ -25,6 +25,12 @@ This track focuses more heavily on SIEM monitoring, Windows security events, net
 ---
 
 ## Featured Portfolio Projects
+
+### [ISO 27001 Endpoint & Data Protection Governance](https://github.com/RAY883/ISO-27001-Endpoint-Data-Protection-Governance)
+
+Completed a scoped ISO/IEC 27001:2022 control review for a fictional international organisation focused on endpoint security, data classification, data leakage, access, logging and monitoring. Built a scoped Statement of Applicability, risk register, evidence register, findings register and remediation plan, then supported the GRC assessment with a Windows Firewall test and a dummy confidential-data handling test.
+
+**Framework support:** NIST RMF, NIST CSF 2.0, CIS Controls v8.1, GDPR and CCPA/CPRA, with HIPAA and PCI DSS assessed for applicability.
 
 ### [Risk Acceptance and Security Exception Management](https://github.com/RAY883/Risk-Acceptance-Security-Exception-Management)
 
@@ -76,18 +82,18 @@ These are practical learning labs and are not presented as production client wor
 | [IAM Joiner–Mover–Leaver Access Governance](https://github.com/RAY883/iam-joiner-mover-leaver-access-governance) | GRC / IAM | ✅ Completed |
 | [AI Security Governance and Incident Readiness](https://github.com/RAY883/AI-Security-Governance-and-Incident-Readiness) | AI Governance / AI Security | ✅ Completed |
 | [Risk Acceptance and Security Exception Management](https://github.com/RAY883/Risk-Acceptance-Security-Exception-Management) | GRC / IT Risk | ✅ Completed |
-| EU AI Act High-Risk AI Governance Assessment | AI Governance / Regulatory Risk | ✅Completed |
-| Automated Privileged-Access Review and GRC Engineering | GRC Engineering / IAM | 🧭 Planning |
-| PCI DSS Network Segmentation and Scope Review | Compliance / Technical Assurance | 🧭 Planning |
-| ISO 27001 Applicability and Audit-Readiness Case Study | GRC / Audit Readiness | 🧭 Planning |
-| Detection Engineering and Incident Response Expansion | SOC / Detection | 🧭 Planning |
-| Microsoft Sentinel / Defender XDR Security Monitoring | Cloud / SOC | 🧭 Planning |
+| [ISO 27001 Endpoint & Data Protection Governance](https://github.com/RAY883/ISO-27001-Endpoint-Data-Protection-Governance) | GRC / ISO 27001 / Audit Readiness | ✅ Completed |
+| EU AI Act High-Risk AI Governance Assessment | AI Governance / Regulatory Risk | 🧭 Planning |
+| GRC Control Automation using Python | GRC Engineering / Automation | 🧭 Planning |
+| PCI DSS Network Segmentation and Scope Review | Compliance / Technical Assurance | 🧭 Optional Planning |
+| Detection Engineering and Incident Response Expansion | SOC / Detection | 🧭 Later |
+| Microsoft Sentinel / Defender XDR Security Monitoring | Cloud / SOC | 🧭 Later |
 
 ---
 
 ## Core Skills
 
-**GRC & IT Risk:** Risk assessment, control-effectiveness review, risk acceptance, security exceptions, third-party risk, remediation tracking, audit evidence, executive summaries, NIST CSF 2.0, privacy and compliance fundamentals
+**GRC & IT Risk:** Risk assessment, control-effectiveness review, risk acceptance, security exceptions, ISO 27001 readiness, Statement of Applicability, third-party risk, remediation tracking, audit evidence, executive summaries, NIST RMF, NIST CSF 2.0, privacy and compliance fundamentals
 
 **AI Governance:** AI risk assessment, responsible AI, human oversight, transparency, accountability, AI security testing, prompt-injection risk, AI incident readiness
 
